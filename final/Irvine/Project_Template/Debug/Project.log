@@ -1,10 +1,14 @@
-﻿Build started 6/8/2018 11:34:24 PM.
-     1>Project "E:\Study\CS\3 CS\Semester 1\Assembly Language\Assembly Projects 2017\final\Irvine\Project_Template\Project.vcxproj" on node 2 (Build target(s)).
-     1>Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Study\CS\3 CS\Semester 1\Assembly Language\Assembly Projects 2017\final\Irvine\Project_Template\Debug\Project.exe" /NOLOGO /LIBPATH:C:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Study\CS\3 CS\Semester 1\Assembly Language\Assembly Projects 2017\final\Irvine\Project_Template\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Study\CS\3 CS\Semester 1\Assembly Language\Assembly Projects 2017\final\Irvine\Project_Template\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\main.obj
-         Project.vcxproj -> E:\Study\CS\3 CS\Semester 1\Assembly Language\Assembly Projects 2017\final\Irvine\Project_Template\Debug\Project.exe
-     1>Done Building Project "E:\Study\CS\3 CS\Semester 1\Assembly Language\Assembly Projects 2017\final\Irvine\Project_Template\Project.vcxproj" (Build target(s)).
+﻿Build started 12/28/2017 10:15:04 AM.
+     1>Project "C:\Users\PC\Desktop\New folder (7)\Irvine\Project_Template\Project.vcxproj" on node 2 (Rebuild target(s)).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\PC\AppData\Local\Temp\tmpefce059dc2b447eeb716c4e8e029858c.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /Tamain.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC\Desktop\New folder (7)\Irvine\Project_Template\Debug\Project.exe" /NOLOGO /LIBPATH:C:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC\Desktop\New folder (7)\Irvine\Project_Template\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC\Desktop\New folder (7)\Irvine\Project_Template\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\main.obj
+         Project.vcxproj -> C:\Users\PC\Desktop\New folder (7)\Irvine\Project_Template\Debug\Project.exe
+     1>Done Building Project "C:\Users\PC\Desktop\New folder (7)\Irvine\Project_Template\Project.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:04.96
+Time Elapsed 00:00:00.54
